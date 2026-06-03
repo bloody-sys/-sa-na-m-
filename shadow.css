@@ -1,0 +1,190 @@
+h3 {
+   color: brown;
+   background: rgb(223, 93, 93);
+   box-shadow: 2px 3px 46px brown;
+
+}
+
+h2 {
+
+   color: teal;
+   background: rebeccapurple;
+   border-radius: 90px;
+   text-shadow: 0 4px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgb(172, 57, 57);
+   box-shadow: 2px 3px 46px rebeccapurple;
+
+}
+
+img {
+
+   border: 3px solid forestgreen;
+   border-style: double;
+   opacity: unset;
+   box-shadow: 2px 3px 46px forestgreen;
+}
+
+h4 {
+   border: 3px solid greenyellow;
+   border-style: groove;
+   background-color: teal;
+   border-radius: 50px;
+   box-shadow: 2px 3px 46px greenyellow;
+}
+
+body {
+
+   background-color: black;
+   background-blend-mode: color-dodge;
+   font-family: cursive;
+   
+}
+
+.box {
+   border-color: darkgoldenrod;
+   box-shadow: 2px 3px 46px darkgoldenrod;
+}
+
+.boox {
+   border-color: brown;
+   box-shadow: 2px 3px 46px brown;
+}
+
+iframe {
+   background-color: transparent;
+   margin: 4px;
+   border-radius: 50px;
+   box-shadow: 2px 3px 46px purple;
+}
+
+fieldset {
+   border-radius: 50px;
+   border-color: blueviolet;
+   box-shadow: 2px 3px 46px blueviolet;
+}
+
+div {
+   border-radius: 50px;
+   border-color: coral;
+   box-shadow: 2px 3px 46px coral;
+}
+
+legend {
+   color: tomato;
+   box-shadow: 2px 3px 46px tomato;
+}
+
+a {
+   color: red;
+}
+
+button {
+   border-color: coral;
+   box-shadow: 2px 3px 46px coral;
+}
+
+input {
+
+   border-radius: 50px;
+   border-bottom: 50px;
+   box-shadow: 2px 3px 46px purple;
+}
+
+textarea {
+   border-radius: 50px;
+   box-shadow: 2px 3px 46px purple;
+
+}
+
+embed {
+   border-radius: 50px;
+   border: 3px solid violet;
+   box-shadow: 2px 3px 46px yellow;
+}
+
+
+
+.chasmish{
+   color:blueviolet;
+   box-shadow: 2px 3px 46px blueviolet;
+}
+
+
+img {
+   border-radius: 50px;
+   border-color: darkorchid;
+   box-shadow: 2px 3px 46px purple;
+}
+
+h1 {
+   color: rgb(155, 36, 36);
+   box-shadow: 2px 3px 46px purple;
+}
+.henjash{
+   background-color: purple;
+   border-radius: 50px;
+
+}
+
+select {
+   border-radius: 50px;
+   box-shadow: 2px 3px 46px purple;
+}
+
+input[type="search"] {
+   flex: 1;
+   padding: 10px;
+   border: 1px solid #ccc;
+   border-radius: 4px 0 0 4px;
+   box-shadow: 2px 3px 46px #ccc;
+}
+input[type="text"]{
+   box-shadow: 2px 3px 46px forestgreen;
+}
+
+button {
+   padding: 10px 20px;
+   background-color: #007bff;
+   color: white;
+   border: none;
+   border-radius: 0 4px 4px 0;
+   cursor: pointer;
+   box-shadow: 2px 3px 46px purple;
+}
+
+.love {
+   color: black;
+}
+
+.nolove {
+   color: red;
+}
+input[type="email"]{
+   box-shadow: 2px 3px 46px forestgreen;
+}
+input[type="date"]{
+   box-shadow: 2px 3px 46px aqua;
+}
+input[type="password"]{
+   box-shadow: 2px 3px 46px hotpink;
+}
+input[type="week"]{
+   box-shadow: 2px 3px 46px red;
+}
+input[type="time"]{
+   box-shadow: 2px 3px 46px violet;
+}
+input[type="tel"]{
+   box-shadow: 2px 3px 46px hotpink;
+}
+input[type="color"]{
+   box-shadow: 2px 3px 46px forestgreen;
+}
+input[type="number"]{
+   box-shadow: 2px 3px 46px orange;
+}
+input[type="range"]{
+   box-shadow: 2px 3px 46px teal;
+}
+video{
+   box-shadow: 2px 3px 46px yellow;
+}
